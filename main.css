@@ -357,24 +357,17 @@ span.step {
     font-size: 1em;
   }
   .steps {
-    gap: 1em;
-    margin-top: 1em;
+    gap: .5em;
+    /* margin-top: 1em; */
   }
   .steps div {
     font-size: 0.8em;
-    line-height: 0.8em;
+    line-height: 1.25em;
   }
   .cta {
-    border-radius: 3px;
     padding: 0.5em;
-    background-color: #40ff82;
-    color: #fff;
     margin: 0.5em auto;
     font-size: 1em;
-    font-weight: 600;
-    border: 0;
-    cursor: pointer;
-    text-decoration: none;
   }
 }
 
