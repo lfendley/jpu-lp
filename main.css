@@ -83,7 +83,7 @@ h6 {
   background-position: center center;
   background-attachment: fixed;
   font-family: "Roboto", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 300;
   color: #fff;
 }
@@ -297,7 +297,7 @@ section.slide {
 }
 
 .offer-copy {
-  font-size: .75rem;
+  font-size: 1rem;
   margin: 0.5em 0;
 }
 
@@ -388,7 +388,7 @@ span.step {
     font-size: 2rem;
   }
   .offer-copy {
-    font-size: 2rem;
+    font-size: 3rem;
   }
   header img {
     width: 10rem;
