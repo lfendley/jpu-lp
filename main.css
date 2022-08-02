@@ -297,7 +297,7 @@ section.slide {
 }
 
 .offer-copy {
-  font-size: 1rem;
+  font-size: .75rem;
   margin: 0.5em 0;
 }
 
@@ -388,7 +388,7 @@ span.step {
     font-size: 2rem;
   }
   .offer-copy {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   header img {
     width: 10rem;
