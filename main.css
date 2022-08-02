@@ -99,7 +99,8 @@ section.slide {
 }
 
 .m-1 {
-  margin: 1em;
+  margin: 1em auto;
+  max-width: 900px;
 }
 
 #slide-one {
@@ -296,7 +297,7 @@ section.slide {
 }
 
 .offer-copy {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin: 0.5em 0;
 }
 
@@ -353,9 +354,6 @@ span.step {
   .scroll-down {
     margin-top: 1.5em;
   }
-  .offer-copy {
-    font-size: 1em;
-  }
   .steps {
     gap: .5em;
     /* margin-top: 1em; */
@@ -390,7 +388,7 @@ span.step {
     font-size: 2rem;
   }
   .offer-copy {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   header img {
     width: 10rem;
